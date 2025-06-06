@@ -33,7 +33,6 @@ A backend-only Django-based system that automates credit/loan approval using a c
 ## 📌 Assumptions
 
 - EMI calculation uses **Compound Interest**:
-- 
 - **Credit Score Logic** factors:
 - Timely EMI repayments
 - Number of past loans
@@ -64,8 +63,6 @@ A backend-only Django-based system that automates credit/loan approval using a c
 ✅ All API endpoints tested successfully  
 ✅ Celery-based background ingestion implemented  
 ✅ Codebase committed to GitHub
-
-🔗 Submit your **GitHub repo link** as per assignment instructions.
 
 ---
 
