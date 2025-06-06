@@ -79,4 +79,4 @@ For any queries or collaboration:
 
 - **Name**: Yuvraj Shete  
 - **Email**: yuvrajshete612@gmail.com  
-- **GitHub**: 
+- **GitHub**: https://github.com/yuvrajshete05/credit-approval-system.git
