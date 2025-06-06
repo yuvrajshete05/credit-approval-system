@@ -32,12 +32,8 @@ A backend-only Django-based system that automates credit/loan approval using a c
 
 ## 📌 Assumptions
 
-- `approved_limit = 36 * monthly_income`, rounded to the nearest lakh.
 - EMI calculation uses **Compound Interest**:
-
-  EMI = P * r * (1 + r)^n / ((1 + r)^n - 1)
-
-
+- 
 - **Credit Score Logic** factors:
 - Timely EMI repayments
 - Number of past loans
