@@ -14,6 +14,11 @@ from core.serializers import (
 from .tasks import process_credit_application
 import math
 
+# Home page view
+from django.shortcuts import render
+def home(request):
+    return render(request, 'core/home.html')
+
 
 class RegisterCustomerView(APIView):
     def post(self, request):
